@@ -1,2 +1,1 @@
-# vnsai-Top-Netflix-Series-app
-vnsai/Top-Netflix-Series-app
+# Top-Netflix-Series-using-ReactJS
